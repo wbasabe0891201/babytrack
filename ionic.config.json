@@ -1,0 +1,8 @@
+{
+  "name": "babyTrack",
+  "app_id": "e96e2f63",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
